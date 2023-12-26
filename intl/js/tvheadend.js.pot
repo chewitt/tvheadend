@@ -2014,8 +2014,7 @@ msgstr ""
 
 #: src/webui/static/app/tvheadend.js:251
 msgid ""
-"or join the [IRC channel on freenode](https://kiwiirc.com/client/chat."
-"freenode.net/?nick=tvhhelp|?#hts)."
+"or join the [IRC channel on Libera.Chat](https://web.libera.chat/?channel=#hts)."
 msgstr ""
 
 #: src/webui/static/app/i18n-post.js:217
